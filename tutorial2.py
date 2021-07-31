@@ -1,3 +1,0 @@
-print "heelo"
-\
-asef
